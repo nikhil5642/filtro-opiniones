@@ -7,7 +7,13 @@ GENERAL USAGE NOTES
 
 Installing Software
 --------------------
-This service will run automatically when python file is executed. It is recommended that you install Python on your system .
-If you install python code. then you have find the id of page from which comments has to be extracted. Then our software will make summary of that comments and also give the reponse which is in form of  postive or negative.
+Our product basically takes feedback of bulk data such as comments or reviews of products given by enormous number of people and filterize feedback(like we can get data of specific field, like it can sort out review of hotels staff from bulk hotel reviews )
 
-
+Instructions
+--------------------
+- open Main file.ipynb
+- first of all your input data(bulk review data and comments/* in our case its " hotel_test.txt ") should be in .txt format                           for using this model
+- secondly you should place your inputext file in a parent folder which here corresponds to " filtro-opiniones " and you can name your input file accordingly, like in our  case " hotel_test.txt ".
+- you have been given flexiblity to choose your own special class(s) for which you specifically want filteration.Here Special    Classes for filteration must be given in string format .
+- The text file name
+- The output comes in the format of well classified input data.
