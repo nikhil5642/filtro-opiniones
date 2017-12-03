@@ -1,13 +1,20 @@
 Filtro Opinions 1.0 03/12/2017
+
+
+PROBLEM STATEMENT
+---------------------
+Every company/brand wants to improve there products we can help them by finding the problems and best part of there product by using the user feedback . But when your product has bulk of reviews/feedbacks it gets difficult to figure out the main problem manually. So we need something more technical to figure out the problem.
+
+OUR SOLUTION
+--------------------
+Our product basically takes feedback of bulk data such as comments or reviews of products given by enormous number of people and filterize feedback(like we can get data of specific field, like it can sort out review of hotels staff from bulk hotel reviews )
+
 GENERAL USAGE NOTES
 ---------------------
 -This Software  supports  Windows 10/Linux system.
 -Progress of program depends on Data of Page to be extracted and may delay for few minutes if data to be extracted is of heavy size.
 -Be aware to put the correct id of post in the text bar to get the best result.
 
-Installing Software
---------------------
-Our product basically takes feedback of bulk data such as comments or reviews of products given by enormous number of people and filterize feedback(like we can get data of specific field, like it can sort out review of hotels staff from bulk hotel reviews )
 
 Instructions
 --------------------
